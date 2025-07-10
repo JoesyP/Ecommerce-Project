@@ -11,6 +11,8 @@ Sorcerer's Supply is a wizard centric ecommerce site 🧙‍♂️.
 
 ## Getting Started
 
+Head over to https://sorcerersupply.store/
+
 ### Prerequisites
 
 Sorcerer's Supply requires Node.js to be installed on your machine.
